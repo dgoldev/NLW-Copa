@@ -23,13 +23,13 @@
 <h2>Funcionalidades e Demonstração da Aplicação</h2>
 
 
-📁<h2>Acesso ao Projeto</h2>
+<h2>📁Acesso ao Projeto</h2>
  **Acesse pelo link: https://dgoldev.github.io/NLW-Copa/ ** <br>
 
-🚀 <h2>Tecnologias utilizadas</h2>
+<h2>🚀Tecnologias utilizadas</h2>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br>
-🔖 <h2>Pessoas contribuidoras do projeto</h2>
+<h2>🔖Pessoas contribuidoras do projeto</h2>
 Autores
 |(https://github.com/maykbrito) |
 
@@ -37,7 +37,7 @@ Autores
 Autores
 |(https://github.com/dgoldev) |
 
-<h2>Conceitos Aplicados no projeto</h2>👀
+<h2>Conceitos Aplicados no projeto 👀</h2>
 
 *Html semântico
 *Projeto com base no Figma
