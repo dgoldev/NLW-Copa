@@ -39,18 +39,18 @@ Autores
 
 <h2>Conceitos Aplicados no projeto 👀</h2>
 
-*Html semântico
-*Projeto com base no Figma
-*Flexbox
-*Responsividade
-*Transition
-*@keyframes
-*@media
-*css variables
-*Variáveis e Tipos de dados
-*Funções
-*Objetos
-*Dynamic with JS
-*Clean code
-*Refatoração
+*Html semântico<br>
+*Projeto com base no Figma<br>
+*Flexbox<br>
+*Responsividade<br>
+*Transition<br>
+*@keyframes<br>
+*@media<br>
+*css variables<br>
+*Variáveis e Tipos de dados<br>
+*Funções<br>
+*Objetos<br>
+*Dynamic with JS<br>
+*Clean code<br>
+*Refatoração<br>
 
