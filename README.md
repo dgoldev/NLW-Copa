@@ -13,7 +13,7 @@
 *Conceitos Aplicados no projeto<br>
 
 <h2>✨Descrição do Projeto</h2>
-*Projeto da Rocketseat de cards animados para copa do mundo feito com a tríade da internet. é um site resposivo com acesso aos jogos do Brasil na copa do mundo 2022.
+*Projeto da Rocketseat de cards animados para copa do mundo feito com a tríade da internet. é um site responsivo com acesso aos jogos do Brasil na copa do mundo 2022.
 
 ![img-projeto-nlw](https://user-images.githubusercontent.com/77650262/200216830-886b3c33-2265-4319-812f-13e4450d49ae.png)
 
